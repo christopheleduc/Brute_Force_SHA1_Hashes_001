@@ -1,5 +1,6 @@
 # DiscoPass - Hash et compare un mot de passe à partir d'un fichier texte.
 
+# "DiscoPass.py" est largement commenté !
 
 Un petit programme en Python qui "Hash" un mot de passe avec SHA1 (mais ce pourrait être MD5), récupère une liste de mots de passe connues, "Hash" chacun des mots de passe, et procède à une comparaison.
 
